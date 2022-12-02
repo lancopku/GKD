@@ -1,10 +1,11 @@
 # README
 
-## Installation
+## Installation and start
 Run command below to install the environment
 ```bash
 pip install -r requirements.txt
 ```
+Please build the following 3 folders under GKD: student, teacher, utils
 
 
 ## Training
